@@ -11,7 +11,14 @@ A more mathematical look to the Machine Learning Topic in General
 ## Blog posts 
 
 From Information Theory to probability, most friendly (as much as it can be) posts.
-1) http://colah.github.io/posts/2015-09-Visual-Information/
+
+Information Theory:
+
+*) http://colah.github.io/posts/2015-09-Visual-Information/
+
+Kullback-Leibner Divergence: 
+
+*) https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
 
 
 ## Books 
