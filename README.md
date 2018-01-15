@@ -1,5 +1,6 @@
 # Mathematics Of Machine Learning
-My selection of best resources of popular theories behind machine learning algorithms
+My selection of best resources of popular theories behind machine learning algorithms. I will be updating and 
+if you think anything needs to be added either create an issue or make a pull request.
 
 ## Video Series
 
@@ -21,6 +22,9 @@ Another Epic lecture video series, on Convex Optimization
 
 
 Linear Algebra 
+
+5) https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8
+
 
 ## Blog posts 
 
