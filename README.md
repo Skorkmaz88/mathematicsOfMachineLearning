@@ -44,11 +44,12 @@ Kullback-Leibner Divergence:
 ## Books 
 
 ## People to follow 
-Random order
+In random order..
 
 1) Christopher Olah (http://colah.github.io/about.html)
 2) Andrej Karpathy (http://karpathy.github.io/)
 3) Yann Lecunn (http://yann.lecun.com/)
 4) Andrew Ng (http://www.andrewng.org/)
 5) Ian Goodfellow (http://www.iangoodfellow.com/)
+6) Geoffrey Hinton (http://www.cs.toronto.edu/~hinton/)
 
