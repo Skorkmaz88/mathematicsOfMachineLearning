@@ -1,4 +1,4 @@
-# Mathematics OfMachineLearning
+# Mathematics Of Machine Learning
 My selection of best resources of popular theories behind machine learning algorithms
 
 ## Video Series
@@ -10,6 +10,17 @@ A more mathematical look to the Machine Learning Topic in General
 One of the best Probability video series online
 
 2) https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLmPcD-wiF4Ea_Doghiw3ya6XaLrmGrLUU
+
+Calculus of variations
+
+3) https://www.youtube.com/watch?v=U1QT4GWDig4&list=PLUnrYe_C6P_oWd9vCHteGNC6kwdKJgXra
+
+Another Epic lecture video series, on Convex Optimization 
+
+4) https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3D9A62846A129C47
+
+
+Linear Algebra 
 
 ## Blog posts 
 
@@ -36,3 +47,4 @@ Random order
 3) Yann Lecunn (http://yann.lecun.com/)
 4) Andrew Ng (http://www.andrewng.org/)
 5) Ian Goodfellow (http://www.iangoodfellow.com/)
+
