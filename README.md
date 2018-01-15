@@ -43,6 +43,8 @@ Kullback-Leibner Divergence:
 
 ## Books 
 
+1) Machine Learning A probabilistic perspective (https://mitpress.mit.edu/books/machine-learning-0), Wonderful insights, first 12 chapters are especially good
+
 ## People to follow 
 In random order..
 
@@ -52,4 +54,5 @@ In random order..
 4) Andrew Ng (http://www.andrewng.org/)
 5) Ian Goodfellow (http://www.iangoodfellow.com/)
 6) Geoffrey Hinton (http://www.cs.toronto.edu/~hinton/)
+7) Yoshua Bengio (http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 
